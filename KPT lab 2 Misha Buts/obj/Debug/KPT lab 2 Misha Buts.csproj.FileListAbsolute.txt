@@ -1,0 +1,7 @@
+C:\Users\Misha\source\repos\KPT lab 2 Misha Buts\bin\Debug\KPT lab 2 Misha Buts.exe.config
+C:\Users\Misha\source\repos\KPT lab 2 Misha Buts\bin\Debug\KPT lab 2 Misha Buts.exe
+C:\Users\Misha\source\repos\KPT lab 2 Misha Buts\bin\Debug\KPT lab 2 Misha Buts.pdb
+C:\Users\Misha\source\repos\KPT lab 2 Misha Buts\obj\Debug\KPT lab 2 Misha Buts.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\KPT lab 2 Misha Buts\obj\Debug\KPT lab 2 Misha Buts.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\KPT lab 2 Misha Buts\obj\Debug\KPT lab 2 Misha Buts.exe
+C:\Users\Misha\source\repos\KPT lab 2 Misha Buts\obj\Debug\KPT lab 2 Misha Buts.pdb
